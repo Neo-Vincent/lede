@@ -126,8 +126,12 @@ jobs:
           CONFIG_PACKAGE_luci-app-kodexplorer=y
           CONFIG_PACKAGE_luci-app-minidlna=y
           CONFIG_PACKAGE_luci-app-openclash=y
-          CONFIG_PACKAGE_luci-app-n2n_v2=y
-          CONFIG_PACKAGE_n2n-edge=y
+          CONFIG_PACKAGE_luci-app-n2n=y
+          CONFIG_PACKAGE_luci-app-ddns=y
+          CONFIG_PACKAGE_luci-app-wol=y
+          CONFIG_PACKAGE_n2n=y
+          CONFIG_PACKAGE_adguardhome=y
+          CONFIG_PACKAGE_coremark=y
           # CONFIG_PACKAGE_luci-app-openvpn=y
           # CONFIG_PACKAGE_luci-app-openvpn-server=y
           # CONFIG_PACKAGE_luci-app-qbittorrent=y
